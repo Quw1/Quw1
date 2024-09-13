@@ -1,4 +1,4 @@
-### Hey there, I'm Timur 👋
+### Hey there, I'm Tim 👋
 
 #### A Backend / Full-Stack Developer
 
